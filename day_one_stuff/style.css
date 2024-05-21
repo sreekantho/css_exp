@@ -1,0 +1,254 @@
+/* I have suffixed the assignment no. after the class name */
+/* a1 = assignment one */
+/* It needs lot of clean up */
+
+/* generic classes */
+.center {
+    text-align: center;
+}
+
+.common_font_family {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+}
+
+/* generic classes */
+
+/* assignment classes start from here on */
+
+/* assignment one starts here */
+.box_a1 {
+    width: 500px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 14px;
+}
+
+.bg_a1 {
+    background-color: #1DE592;
+    width: 500px;
+    margin: 60px auto;
+    color: black;
+    padding: 130px 50px;
+    border-radius: 18px;
+}
+
+.title_a1 {
+    color: black;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.p_a1 {
+    margin-bottom: 40px;
+}
+
+.share_ur_ideas_btn_a1 {
+    background-color: white;
+    border: none;
+    padding: 15px 32px;
+    border-radius: 60px;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    width: 250px
+}
+
+/* End of Assignment one */
+
+/* assignment two*/
+
+.box_a2 {
+    border: 1px solid lightgray;
+    border-radius: 14px;
+}
+
+.bg_a2 {
+    background-color: #ffffff;
+    width: 600px;
+    margin: 60px auto;
+    color: black;
+    border-radius: 18px;
+    box-sizing: border-box;
+}
+
+.title_a2 {
+    color: black;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.profile_para_a2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 40px;
+    width: 100%;
+    color: gray;
+}
+
+.profile_pic_2 {
+    width: 25%;
+    box-sizing: border-box;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.profile_link_2 {
+    margin: 20px auto;
+    color: blue;
+    font-size: 18px;
+    font-weight: normal;
+    width: 250px;
+    border: none;
+    background-color: #ffffff;
+}
+
+.container_profile_pics_a2 {
+    width: 100%;
+}
+
+.container_2 {
+    border-bottom: black;
+    width: 100%;
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 10px 25px;
+    border-bottom: 1px solid lightgray;
+}
+
+/* End of Assignment two */
+
+/* Assignment three */
+.box_a3 {
+    border: 1px solid lightgray;
+    border-radius: 14px;
+}
+
+.bg_a3 {
+    background-color: #ffffff;
+    width: 450px;
+    margin: 60px auto;
+    color: black;
+    border-radius: 18px;
+    box-sizing: border-box;
+}
+
+.img_a3 {
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.container_3 {
+    width: 100%;
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 15px 25px;
+    border-bottom: 1px solid lightgray;
+}
+
+.card_shortext_a3 {
+    color: gray;
+    font-weight: normal;
+}
+
+.card_title_a3 {
+    margin-top: 10px;
+    font-size: 25px;
+    margin-bottom: 10px;
+
+}
+
+.card_para_a3 {
+    color: gray;
+    line-height: 1.6;
+    word-spacing: 4px;
+    font-size: large;
+}
+
+
+.card_button_a3 {
+    background-color: white;
+    padding: 12px 30px;
+    border-radius: 10px;
+    color: blue;
+    font-size: medium;
+    border: 2px solid gray;
+    width: 160px;
+    margin-top: 20px;
+
+}
+
+/* End of Assignment three */
+
+/* Assignment four */
+.form_shortext_a4 {
+    color: black;
+    font-weight: bold;
+}
+
+.box_a4 {
+    background-color: #ffffff;
+    width: 450px;
+    margin: 60px auto;
+    color: black;
+    border-radius: 18px;
+    box-sizing: border-box;
+}
+
+.form_input_a4 {
+    align: center;
+    width: 100%;
+    height: 30px;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 25px auto;
+}
+
+.container_4 {
+    width: 90%;
+    margin: 0px auto;
+    box-sizing: border-box;
+    padding: 20px;
+    border-bottom: 1px solid lightgray;
+}
+
+
+.card_button_a4 {
+    background-color: black;
+    padding: 12px 30px;
+    border-radius: 20px;
+    color: white;
+    font-size: medium;
+    border: 2px solid gray;
+    width: 250px;
+    margin-top: 20px;
+}
+
+
+.password_show {
+    /* position: absolute;
+    z-index: 1;
+    margin: 30px;
+    height: 60px;
+    left: 840px;
+    top: 2054px; */
+
+}
+
+.spacer-20 {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+
+.terms_a4 {
+    width: 100%;
+    color: gray;
+    font-size: small;
+}
+
+a {
+    color: black
+}
+
+/* End of assignment four */
